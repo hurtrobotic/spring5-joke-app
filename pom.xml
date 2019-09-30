@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>eu.hurtrobotic.joke</groupId>
     <artifactId>jokeapp</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>spring5-joke-app</name>
     <description>Joke App for Spring Boot</description>
 
@@ -58,7 +58,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:hurtrobotic/spring5-joke-app.git</developerConnection>
-        <tag>jokeapp-0.0.2</tag>
+        <tag>jokeapp-0.0.3</tag>
     </scm>
 
 </project>
