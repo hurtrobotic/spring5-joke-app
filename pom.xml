@@ -52,7 +52,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:hurtrobotic/spring5-joke-app.git</developerConnection>
-        <tag>jokeapp-0.0.1</tag>
+        <tag>jokeapp-0.0.2</tag>
     </scm>
 
 </project>
