@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>eu.hurtrobotic.joke</groupId>
     <artifactId>jokeapp</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>spring5-joke-app</name>
     <description>Joke App for Spring Boot</description>
 
